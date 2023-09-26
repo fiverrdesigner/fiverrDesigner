@@ -1,9 +1,13 @@
-### Hi there 👋
-
-<!--
-**fiverrdesigner/fiverrDesigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+ <table align="center">
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/shihabhashib"> <img src="https://komarev.com/ghpvc/?username=shihabhashib&style=for-the-badge&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
